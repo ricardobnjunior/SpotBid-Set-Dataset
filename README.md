@@ -2,10 +2,10 @@
 
 This repository contains the SpotBID Set dataset, which was created as part of the research for the paper titled "DocLightDetect: A new algorithm for occlusion classification in identification documents". The dataset is made available for researchers and practitioners interested in studying and improving occlusion classification in identification documents, particularly those caused by the spotlight effect.
 
-#Overview
+# Overview
 In the digital era, accurate identification of users through online platforms is crucial, especially for institutions such as banks, insurance companies, and government services. One of the significant challenges in this process is the occurrence of occlusions in images of identification documents, often caused by the spotlight effect when using mobile devices. The SpotBID Set was developed to simulate these scenarios and to provide a robust dataset for testing and improving algorithms like DocLightDetect, which aims to classify such occlusions accurately.
 
-#Dataset Description
+# Dataset Description
 The SpotBID Set replicates a mobile video capturing environment, particularly focusing on the spotlight effect. Below is a summary of the dataset creation process:
 
 1. Initial Base Selection: The Smartdoc Dataset was used as the foundation for this dataset. It features documents in a video format, suitable for frame-based analysis.
